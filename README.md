@@ -4,6 +4,7 @@
 EQUIPE: 
 - JOÃO VITOR SILVA GURGEL 
 - LUCAS PAIVA
+- JUAN CARLOS BARBOSA DE SOUSA LIMA
 
 Sobre o Projeto (com contexto de refatoração)
 Funcionalidades completas
